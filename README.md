@@ -1,13 +1,20 @@
-lukas
+lukas, doctorslimm, or huckleberry
 
-1. artist and hacker
+- londoner based in sf
+- i consider myself an artist and hacker optimizing for velocity + strategy
 
-2. optimizing for velocity + strategy.
+Working on multimedia contextual ad generation and ssp infra at kontext.so and monetano.com.
 
-3. Working on multimedia contextual ad generation and ssp infra at kontext.so and monetano.com.
+Prev: founded web360.dev (user profiling), mozart-ai (ESG data), 1st eng @ ccxt.
 
-4. Prev: founded web360.dev (user profiling), mozart-ai (ESG data), 1st eng @ ccxt.
 
-5. Based in SF. Lithuanian-American.
+Follow me on twitter
+I really want to be famous [@korganas](https://x.com/korganas)
 
-6. [doctorslimm.github.io](https://doctorslimm.github.io) • [cal.com/doctorslimm](https://cal.com/doctorslimm)
+---
+
+calls
+[cal.com/doctorslimm](https://cal.com/doctorslimm)
+
+changelog
+[doctorslimm.github.io](https://doctorslimm.github.io)
