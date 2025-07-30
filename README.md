@@ -1,4 +1,8 @@
-lukas, doctorslimm, or huckleberry
+[doctorslimm.github.io](https://doctorslimm.github.io)
+---
+
+
+Lukas, doctorslimm, or huckleberry
 
 - londoner based in sf
 - i consider myself an artist and hacker optimizing for velocity + strategy
@@ -15,6 +19,3 @@ I really want to be famous [@korganas](https://x.com/korganas)
 
 calls
 [cal.com/doctorslimm](https://cal.com/doctorslimm)
-
-changelog
-[doctorslimm.github.io](https://doctorslimm.github.io)
