@@ -17,5 +17,4 @@ I really want to be famous [@korganas](https://x.com/korganas)
 
 ---
 
-calls
-[cal.com/doctorslimm](https://cal.com/doctorslimm)
+[Calendar - cal.com/doctorslimm](https://cal.com/doctorslimm)
