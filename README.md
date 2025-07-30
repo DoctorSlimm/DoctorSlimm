@@ -5,7 +5,7 @@
 Lukas, doctorslimm, or huckleberry
 
 - londoner based in sf
-- i consider myself an artist and hacker optimizing for velocity + strategy
+- i consider myself an artist and hacker
 
 Working on multimedia contextual ad generation and ssp infra at kontext.so and monetano.com.
 
