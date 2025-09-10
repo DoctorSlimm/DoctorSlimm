@@ -13,7 +13,7 @@ Prev: founded web360.dev (user profiling), mozart-ai (ESG data), 1st eng @ ccxt.
 
 
 Follow me on twitter
-I really want to be famous [@korganas](https://x.com/korganas)
+I really want to be famous [@whysoslimm](https://x.com/whysoslimm)
 
 ---
 
